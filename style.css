@@ -1,1 +1,13 @@
-
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+ backgraund: # CCCCCC
+}
+p{
+  text-align: center;
+}
+em strong{
+  color:purple;
+}
