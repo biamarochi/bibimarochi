@@ -3,15 +3,22 @@
   padding: 0;
 }
 body{
-backgroud-color:
+background-color:
   }
+#banner{
+  width:100%;
+}
 h1{
   text-align:center;
 }
- backgraund: # CCCCCC
+ background: # CCCCCC
 }
 p{
   text-align: center;
+  font-size:20px;
+}
+#missao{
+  font-size:30px;
 }
 em strong{
   color:purple;
