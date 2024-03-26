@@ -3,23 +3,27 @@
   padding: 0;
 }
 body{
-background-color:
-  }
+   background: # CCCCCC
+  
 #banner{
   width:100%;
 }
+  
 h1{
   text-align:center;
+
 }
- background: # CCCCCC
+
+  p{
+    text-align:center;
+  }
+
+  #missao{
+     font-size:20px;
 }
-p{
-  text-align: center;
-  font-size:20px;
-}
-#missao{
-  font-size:30px;
-}
+
 em strong{
+  font-size:30px;
+
   color:purple;
 }
