@@ -11,11 +11,12 @@ body{
    background: # CCCCCC
     padding:30px;
   }
-h1{
-  text-align:center;
-
+  .titulo-principal{
+  padding-left: 20px
 }
-
+titullo-secundario{
+  text-align:center;
+}
   p{
     text-align:center;
   }
@@ -35,7 +36,6 @@ em strong{
     background: #FFFFFF;
     pading: 20px;
   }
-h2{
   text align: center;
 }
   ul{
