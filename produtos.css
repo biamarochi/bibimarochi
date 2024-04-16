@@ -24,6 +24,10 @@ font-size: 22px;
 text-decoration: none;
 }
 
+nav a: hover{
+color: #C78C19
+  text-decoration: underline;
+}
 .produtos {
   widht: 940px;
   margin: 0 auto;
@@ -39,6 +43,8 @@ text-decoration: none;
   margin: 0 1,5%
   padding: 30px 20px;
   box-sizing: border-box;
+  border: 2px solid #000000;
+    border-radius: 10px;
 
 }
 
