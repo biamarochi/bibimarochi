@@ -5,7 +5,7 @@ padding: 20px 0;
 .caixa{
 position: relative;
 widht: 940px;
-margin: 0 auto;
+margin: 0 auto;https://www.educacao.pr.gov.br/iniciar/
 }
 nav{
 position: absolute;
@@ -48,6 +48,19 @@ color: #C78C19
 
 }
 
+.produtos li: hover{
+border-color: pink;
+}
+
+.protus li: active{
+  border-color: purple;
+} 
+
+.produtos li: hover h2{
+  font-size: 34px;
+}
+
+
 .produtos h2{
   font-size: 30px;
   font-weight: bold;
@@ -55,7 +68,7 @@ color: #C78C19
 
 .produtos-descricao{
   font-size: 18px;
-}
+}https://www.educacao.pr.gov.br/iniciar/
 
 .produtos-preco{
   font-size: 22px;
