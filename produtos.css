@@ -4,8 +4,8 @@ padding: 20px 0;
 }
 .caixa{
 position: relative;
-widht: 940px;
-margin: 0 auto;https://www.educacao.pr.gov.br/iniciar/
+width: 940px;
+margin: 0 auto;
 }
 nav{
 position: absolute;
@@ -24,23 +24,23 @@ font-size: 22px;
 text-decoration: none;
 }
 
-nav a: hover{
-color: #C78C19
-  text-decoration: underline;
+nav a:hover{
+color: #C78C19;
+text-decoration: underline;
 }
 .produtos {
-  widht: 940px;
+  width: 940px;
   margin: 0 auto;
   padding: 50px 0;
 
 }
 
 .produtos li {
-  display: inline-block
+  display: inline-block;
   text-align: center;
   width: 30%;
   vertical-align: top;
-  margin: 0 1,5%
+  margin: 0 1,5%;
   padding: 30px 20px;
   box-sizing: border-box;
   border: 2px solid #000000;
@@ -48,15 +48,15 @@ color: #C78C19
 
 }
 
-.produtos li: hover{
-border-color: pink;
+.produtos li:hover{
+  border-color: pink;
 }
 
-.protus li: active{
+.protus li:active{
   border-color: purple;
 } 
 
-.produtos li: hover h2{
+.produtos li:hover h2{
   font-size: 34px;
 }
 
@@ -68,7 +68,8 @@ border-color: pink;
 
 .produtos-descricao{
   font-size: 18px;
-}https://www.educacao.pr.gov.br/iniciar/
+  margin-top: 10px;
+}
 
 .produtos-preco{
   font-size: 22px;
@@ -85,6 +86,6 @@ padding: 40px 0;
 
 .copyright{
   color: #FFFFFF;
-  font-size: 13px
+  font-size: 13px;
   margin: 20px 0 0;;
 }
