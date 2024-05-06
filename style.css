@@ -4,54 +4,54 @@
 }
 
 body {
+}
+#banner {
+  width: 100%;
+}
 
-  #banner {
-    width: 100%;
+.principal {
+    background: #CCCCCC; 
+    padding:30px;
   }
 
-  .principal {
-    background: #CCCCCC padding:30px;
-  }
-
-  .titulo-principal {
+.titulo-principal {
     padding-left: 20px
   }
 
-  titullo-secundario {
+titulo-secundario {
     text-align: center;
   }
 
-  p {
+p {
     text-align: center;
   }
 
-  #missao {
-    font-size:20ng em strong {
-      font-size: 30px;
+#missao {
+    font-size:20px
+}
+em strong {
+    font-size: 30px;
+    color: purple;
+    
+}
 
-      color: purple;
-    }
-
-    .itens {
+.itens {
       font-style: italic;
     }
 
-    .beneficios {
-      background: #FFFFFF;
-      pading: 20px;
-    }
-
-    text align: center;
+.beneficios {
+  background: #FFFFFF;
+  padding: 20px;  
+  text-align: center;
   }
 
-  ul {
+ul {
     display: inline-block;
-    vertical-align;
-    top;
+    vertical-align: top;
     width: 20%;
     margin-right: 15%;
   }
 
-  .imagem-beneficios {
+.imagem-beneficios {
     width: 50%
   }
