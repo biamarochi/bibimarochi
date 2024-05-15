@@ -89,7 +89,7 @@ padding: 40px 0;
   margin: 20px 0 0;
 }
 main{
-  width: 940px
+  width: 940px;
   margin: 0 auto;
 }
 form{
@@ -121,7 +121,7 @@ form label, form legend{
   transition:1s alt;
   cursor: ponter;
 }
-.enviar: hover{
+.enviar:hover{
   background: darkorange;
   transform: scale(1.2);
 }
