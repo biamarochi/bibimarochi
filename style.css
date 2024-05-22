@@ -140,6 +140,7 @@ td, th {
     padding: 8px 15px;
 }
 body {
+  font-family:'montserrat', sans-serif;
 }
 .banner {
   width: 100%;
