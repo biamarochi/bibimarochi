@@ -52,7 +52,7 @@ text-decoration: underline;
   border-color: pink;
 }
 
-.protus li:active{
+.produtos li:active{
   border-color: purple;
 } 
 
@@ -141,7 +141,7 @@ td, th {
 }
 body {
 }
-#banner {
+.banner {
   width: 100%;
 }
 
